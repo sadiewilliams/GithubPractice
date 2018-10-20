@@ -1,0 +1,2 @@
+# GithubPractice
+Code for website
